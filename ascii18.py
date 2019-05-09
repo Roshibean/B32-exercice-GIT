@@ -1,2 +1,6 @@
 def print_art():
-	print("allo")
+print(".......")
+print(".     .")
+print("..   ..")
+print("... ...")
+print(".......")
